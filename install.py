@@ -7,3 +7,8 @@ os.system("pip install requests")
 os.system("pip install req")
 os.system("pip install colorama")
 os.system("pip install init")
+
+
+
+
+
