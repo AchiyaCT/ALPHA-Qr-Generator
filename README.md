@@ -1,6 +1,9 @@
-<h1 align="center"><b>QR GENERATOR NEW 🇱🇰🙈</b></h1>
+#                                 Welcome To Dark Crime By Achiya.
 
-<p align="center"><b>QR GENERATOR NEW</b></p>
+<h1 align="center"><b>Termux-QR GENERATOR BY Hiruwa </b></h1>
+
+![logo](https://telegra.ph/file/103ea78891ac7b96268f1.jpg)
+
 
 <p1>මේ ටූූල් එකෙන් ඔයාලට් QR කෝඩ් 
 ජෙනරේට් කරගන්න පුලුවන් 🙈🇱🇰</p1>
